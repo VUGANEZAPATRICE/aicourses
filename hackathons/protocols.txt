@@ -1,0 +1,32 @@
+       jobinrwanda.com(jobs and consultancy) :https://www.jobinrwanda.com/jobs/all
+                                              https://www.jobinrwanda.com/jobs/consultancy
+
+    1. scraping job information from jobinrwanda
+    2. using regular expressions to remove IT related jobs from 
+Tools: easynmt: translating between languages
+      Belt: to use it to ask question and it returns the related text
+
+
+
+Dear Fellows,
+Hope you are doing great!
+I Wanted to inform the rubric on the This week Hackathon!
+1. Write a program which takes array of urls for job-posting websites in Rwanda
+   * https://www.jobinrwanda.com/  (Job Adverts)
+   * https://www.umucyo.gov.rw  ( Tenders)
+2. Web-scrap the content and put them in a pandas data-frame(i.e: the best structured dataframe wins ofcourse!)
+3. Use regular expression and key-words to retrieve IT/Software related job/consultancy opportunities(Tenders).
+4. Use EasyNMT to display the results in 50+ languages using wrapped state of art models
+   * Practical Example for EasyNMT use:
+     https://colab.research.google.com/drive/1X47vgSiOphpxS5w_LPtjQgJmiSTNfRNC?usp=sharing
+5. Hosting of our work example in colab
+   * https://colab.research.google.com/drive/1kAh_Vt1ipA5-BuoaPX39rCIHFrhpcRpW?usp=sharing
+If you need any help on understanding this, as always please do not hesitate to reach out!
+You can seek any help but remember you will individually present your work!
+Winner gets 250 USD!
+Cheers!
+
+=========
+
+All about pandas dataframe: https://pandas.pydata.org/docs/user_guide/merging.html
+Easynmt parameters:(important): https://github.com/UKPLab/EasyNMT/blob/main/docker/README.md
